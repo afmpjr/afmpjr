@@ -3,7 +3,7 @@
 👋 Hi! I’m father of two, born back in 1983, in Chapada dos Guimarães, MT, Brazil  
 🌎 Native portuguese brazilian speaking/writing  
 🌎 Professional english speaking/writing profeciency  
-👨‍🎓 Windows/Linux, Docker, PHP, Laravel, JavaScript, Node.js, TypeScript, React and Vue
+👨‍🎓 Windows/Linux, Docker, PHP, Laravel, JavaScript, Node.js, TypeScript, React and Vue  
 👨‍🎓 ... soon Redux, Terraform, Ansible, Packer and Vault  
 👨‍💻 Full Stack Developer (PHP/JS/HTML/CSS) since 2012  
 💬 I like to meet and talk to people from all around the world, about their cultures and lifestyle  
