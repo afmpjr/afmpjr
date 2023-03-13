@@ -1,5 +1,3 @@
-🛠 Overview (if you wanna know something about me)
-
 👋 Hi! I’m this guy
 👨‍👧‍👦 father of two
 👶 born back in 1983, in Chapada dos Guimarães - MT, Brazil
