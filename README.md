@@ -6,10 +6,9 @@
 
 ## :wave: About Me
 
-Hi! I'm **afmpjr**, father of two children.
+Hi! I'm **afmpjr**
 
-- :brazil: **Native:** Brazilian Portuguese
-- :gb: **English:** Professional proficiency
+- :brazil: **Native:** Brazilian Portuguese / :gb: **English:** Professional proficiency
 - :family_man_man_girl: **Family:** Father of two children
 
 ---
@@ -23,7 +22,3 @@ Exploring local AI and automation, voice assistants, and autonomous Claude Code 
 - **Backend:** PHP, Laravel, Node.js
 - **Frontend:** JavaScript, TypeScript, React, Vue
 - **Full Stack:** Complete PHP/JS/React integration
-
----
-
----
