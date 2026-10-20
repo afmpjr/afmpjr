@@ -1,16 +1,29 @@
-### Hi there 👋
+# afmpjr
 
-<!--
-**juniormendonca/juniormendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** since 2012 | PHP • JavaScript • React • Node.js • TypeScript • Vue
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :wave: About Me
+
+Hi! I'm **afmpjr**, father of two children.
+
+- :brazil: **Native:** Brazilian Portuguese
+- :gb: **English:** Professional proficiency
+- :family_man_man_girl: **Family:** Father of two children
+
+---
+
+### Currently
+Exploring local AI and automation, voice assistants, and autonomous Claude Code ↔ Agents integration.
+
+## 💼 Professional Skills
+
+### Web Development
+- **Backend:** PHP, Laravel, Node.js
+- **Frontend:** JavaScript, TypeScript, React, Vue
+- **Full Stack:** Complete PHP/JS/React integration
+
+---
+
+---
